@@ -31,7 +31,7 @@ require 'dados.php';
       Escolha o método de visualização
     </p>
     <!--====Butões para alterar a previsualização do gráfico===-->
-    <a href="barra3d.html"><button id="plain">BARRA 3D</button>
+    <a href="barra3d.html"><button id="plain">BARRA 3D</button></a>
     <a href="Colum3D.php"><button id="inverted">BARRAS</button></a>
     <a href="home.html"><button id="polar">VOLTAR</button></a>
 
@@ -108,7 +108,7 @@ O QUE ACABEI DE FAZER LA ====-->
       },
       series: [{
         type: 'pie',
-        name: 'Candidatos',
+        name: 'Voto/Porcento',
         data: [
           /*Alterando os dados do gráfico de uma forma dinâmica
           essa estrutura de condição vai apresentar no gráfico o nome do candidato
