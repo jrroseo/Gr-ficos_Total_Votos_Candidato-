@@ -15,6 +15,16 @@ Atualmente, o XAMPP está disponível para quatro sistemas operacionais: Windows
 Como editor do código, foi utilizado o Visual Studio Code (VS Code) um editor de código open-source mantido pela Microsoft, 
 desenvolvido para funcionar em Linux, Windows e MacOS.
 LINGUAGENS UTILIZADAS:
-PHP, CSS, HTML, JavaScript.
+Utilizar apenas PHP como linguagem Back-end.
+Utilizar HTML, CSS e JavaScript como linguagem Front-end.
+O Design é Responsivo;
+Não é necessário Login, ou seja, é possível entrar no "Gráficos_Total_Votos_Candidato" sem fazer um cadastro.
+
 API DOS GRÁFICOS:
 https://www.highcharts.com/demo?_gl=1*fmpcwx*_up*MQ..&gclid=EAIaIQobChMIqv-BoKW9gwMV5l9IAB2_DQE2EAAYASAAEgLyb_D_BwE
+
+Pull requests são sempre bem vindos =)
+License
+MIT
+
+Free Software, Hell Yeah!
