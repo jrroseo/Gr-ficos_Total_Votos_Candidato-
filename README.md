@@ -28,7 +28,7 @@ O Design é Responsivo;
 
 Não é necessário Login, ou seja, é possível entrar no "Gráficos_Total_Votos_Candidato" sem fazer um cadastro.
 
-API DOS GRÁFICOS:
+CÓDIGO FONTE GRÁFICO (highcharts): LINK A BAIXO
 
 [https://www.highcharts.com/demo?_gl=1*fmpcwx*_up*MQ..&gclid=EAIaIQobChMIqv-BoKW9gwMV5l9IAB2_DQE2EAAYASAAEgLyb_D_BwE](https://github.com/highcharts/highcharts)
 
